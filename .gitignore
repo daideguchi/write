@@ -4,6 +4,9 @@ books/
 # udemyフォルダを除外
 udemy/
 
+# youtubeフォルダを除外
+youtube/
+
 # 一般的な除外ファイル
 .DS_Store
 *.log
