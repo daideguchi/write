@@ -1,11 +1,9 @@
-# booksフォルダを除外
-books/
-
-# udemyフォルダを除外
-udemy/
-
-# youtubeフォルダを除外
-youtube/
+# プラットフォーム別コンテンツフォルダ（プライベート）
+01_books/
+03_youtube/
+04_udemy/
+05_note/
+06_memos/
 
 # 一般的な除外ファイル
 .DS_Store
